@@ -23,7 +23,7 @@ export function Home() {
     <Card className="border-0 shadow-none w-1/2 m-auto">
       <CardHeader className="px-4 pb-3">
         <CardTitle className="text-lg font-medium">
-          2025年夏期講習 StudyLog
+          2025年夏期講習修正版 StudyLog
         </CardTitle>
       </CardHeader>
       <CardContent className="px-4">
@@ -40,7 +40,7 @@ export function Home() {
             onClick={createNote}
           >
             <Plus className="h-4 w-4" />
-            <span className="ml-1">StudyLogの作成</span>
+            <span className="ml-1">StudyLogの作成修正版</span>
           </button>
         </div>
       </CardContent>
